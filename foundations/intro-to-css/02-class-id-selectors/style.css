@@ -1,0 +1,19 @@
+.notcooler, .cooler {
+    background-color: hsl(340, 100%, 75%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#two {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#four {
+    background-color: rgb(160, 255, 100);
+    font-size: 24px;
+    font-weight: bold;
+}
